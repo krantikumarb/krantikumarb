@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @krantikumarb
-- 👀 I’m interested in Data, data, DATA
+- 👀 I’m interested in Data, data and DATA.
 - 🌱 I’m currently learning, new methods of Data storage, manipulation, Tranformation and how to get business value out of business.
 - 💞️ I’m looking to collaborate on Data, ETL,BI, DWBI,EDM, MDM, CLoud, Etc
 - 📫 How to reach me ...Krantikumarb@gmail.com
