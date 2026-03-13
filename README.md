@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @krantikumarb
 - 👀 I am interested in exploring collaboration opportunities in ETL, AI, AIBI, DWBI, Data Architecture, Data Governance, and Data Security.
-- 📫 How to reach me ...Krantikumarb@gmail.com
+- 📫 How to reach me Krantikumarb@gmail.com
 
 <!---
 krantikumarb/krantikumarb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
