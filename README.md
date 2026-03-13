@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @krantikumarb
-- 👀 I’m interested in Data, data and DATA.
-- 🌱 I’m currently learning, new methods of Data storage, manipulation, Tranformation and how to get business value out of business.
-- 💞️ I’m looking to collaborate on Data, ETL,BI, DWBI,EDM, MDM, CLoud, Etc
+- 👀 I am interested in exploring collaboration opportunities in ETL, AI, AIBI, DWBI, Data Architecture, Data Governance, and Data Security.
 - 📫 How to reach me ...Krantikumarb@gmail.com
 
 <!---
